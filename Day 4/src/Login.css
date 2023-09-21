@@ -1,0 +1,103 @@
+.prilogo
+{
+    position: absolute;
+    top:20%;
+    left:38%;
+    height:19%;
+    width:15%;
+}
+.bg{
+    position: absolute;
+    /* background-image: url("https://img.freepik.com/free-vector/little-boy-reading-book-night_1308-73898.jpg?size=626&ext=jpg&ga=GA1.1.432411520.1684857937&semt=ais"); */
+    background-color: antiquewhite;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    width: 100%;
+
+}
+.priapp
+{
+    position: absolute;
+    top:20%;
+    left:40%;
+    font-size:200%;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Cochin;
+    
+}
+.prilogin
+{
+    position: absolute;
+    top:35%;
+    left:40%;
+    height:11%;
+    width:7%;
+}
+.pribox
+{
+    border-color: black;
+}
+.pripwd
+{
+     position: absolute;
+     top:62%;
+     left:39%;
+   border-color: black;
+}
+.pripsd
+{
+    position: absolute;
+    top:58%;
+    left:30%;
+}
+.priph
+{
+    position: absolute;
+    top:50%;
+    left:30%;
+}
+.priphone
+{
+    position: absolute;
+    top:53%;
+    left:39%;
+  border-color: black;
+}
+.pricont
+{
+    position: absolute;
+    top:67%;
+    left:39%;
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+.priforgot
+{
+    position: absolute;
+    top:73.5%;
+    left:37%;
+    color: crimson;
+    cursor: pointer;
+}
+.prinew
+{
+    position: absolute;
+    top:81%;
+    left:32%;
+}
+.prisign
+{
+    position: absolute;
+    top:81%;
+    left:43%;
+    color:rgb(6, 174, 174);
+    cursor: pointer;
+}
+#img1{
+    position: relative;
+    left: -30%;
+    top: 14%;
+}
