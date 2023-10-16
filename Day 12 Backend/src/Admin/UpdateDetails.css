@@ -1,0 +1,76 @@
+.updatedform
+{
+    display: flex;
+    flex-direction: column;
+}
+.update-group{
+    background-color: rgb(159, 233, 243);
+    border-radius: 5px;
+    font-family: cursive;
+    font-weight: bolder;
+}
+.formtitle
+{
+    justify-content: center;
+    position: absolute;
+    top:18%;
+    left:43%;
+    color: rgb(0, 0, 0);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.4rem;
+
+}
+
+.lubookname
+{
+    position: absolute;
+    top:24%;
+    left:43%;
+}
+.luauthor
+{
+     position: absolute;
+     top:34%;
+     left:43%;
+     
+}
+.ludescription
+{
+     position: absolute;
+     top:44%;
+     left:43%;
+     
+}
+.luimage
+{
+     position: absolute;
+     top:54%;
+     left:43%;  
+}
+.luaudio
+{
+     position: absolute;
+     top:64%;
+     left:43%;  
+}
+.busave{
+    position: absolute;
+    top:75%;
+    left:47%;
+    background-color: rgb(204, 200, 197);
+    font-family: cursive;
+    font-weight: bolder;
+}
+.busave:hover{
+    transform: scale(0.80);
+}
+.updateform
+{
+    position: fixed;
+    background-color: rgba(198, 189, 189, 0.2);
+    border-radius: 16px;
+    top: 15%;
+    right:35%;
+    height: 70%;
+    width: 30%;
+}
